@@ -77,7 +77,7 @@ public class Question1 {
 				}
 
 			}
-			System.out.println();// Moving the cursor to he next row
+			System.out.println();// Moving the cursor to the next row
 		}
 
 	}
